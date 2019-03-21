@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  text-align: center;
+  border: 2px dashed red;
+  padding: 25px;
+
+  width: 400px;
+  margin: 50px auto;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+p {
+  margin: 0;
+  width: 80%;
+}
